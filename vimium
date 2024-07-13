@@ -1,0 +1,40 @@
+# Insert your preferred key mappings here.
+unmap i
+map m enterInsertMode
+
+map e scrollDown
+unmap j
+
+map i scrollUp
+unmap k
+
+map n scrollLeft
+unmap h
+
+map a scrollRight
+unmap l
+
+map e nextSearchResult
+unmap n
+
+map E previousSearchResult
+unmap N
+
+map N goBack
+unmap H
+
+map A goForward
+unmap L
+
+map E previousTab
+unmap J
+
+unmap gT
+map I nextTab
+
+unmap K
+unmap gt
+
+#unmapping
+unmap <c-e>
+unmap <c-y>
